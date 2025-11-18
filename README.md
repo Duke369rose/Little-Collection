@@ -1,4 +1,4 @@
-# Welcome to the Little-Collection wiki!
+# Welcome to the Little-Collection!
 
 Here are some little collections.
 
